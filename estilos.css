@@ -74,7 +74,7 @@ img {
   text-align: initial;
 }
 
-a{
+.another{
   display: inline-block;
   padding: 10px 50px;
   border: 2px solid #fff;
@@ -82,4 +82,13 @@ a{
   text-decoration: none;
   color:#fff;
   margin-top: 15px;
+}
+a{ 
+  
+  text-decoration: none;
+  color: #fff;
+
+}
+li{
+  padding: 4px;
 }
